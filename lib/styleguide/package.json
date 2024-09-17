@@ -1,0 +1,9 @@
+{
+  "name": "styleguide",
+  "keywords": [
+    "ember-addon"
+  ],
+  "devDependencies": {
+    "ember-template-imports": "*"
+  }
+}
