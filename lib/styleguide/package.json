@@ -3,7 +3,7 @@
   "keywords": [
     "ember-addon"
   ],
-  "devDependencies": {
+  "dependencies": {
     "ember-template-imports": "*"
   }
 }
